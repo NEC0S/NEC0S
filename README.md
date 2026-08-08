@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Abhishek%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Abhishek%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -18,9 +18,9 @@
 ## 👋 About Me
 
 - 🎓 B.Tech, Mechanical Engineering, **IIT Bombay** (2026) — Minor in **Artificial Intelligence & Data Science** · CPI 8.13
-- 💼 Incoming **Analytical Consultant** at **EXL Services**
+- 💼 Incoming **Analytical Consultant** at **EXL Services**, trained under the eDART Analytics Program (with Great Learning) covering Excel, SQL, Python, Power BI & Big Data
 - 🧪 Former **Business Analyst Intern** @ Tribeca Developers, and **Generative AI Intern** @ Noctilucent Technologies
-- 🚀 Built and shipped projects across churn prediction, Agentic pipelines, computer vision, and font-vector generation
+- 🚀 Built and shipped projects across churn prediction, RAG pipelines, computer vision, and font-vector generation
 - 🌱 Currently deepening my work with **LangChain / LangGraph**, agentic workflows, and MLOps practices
 - ✈️ Subsystem Vice Lead — Aerodynamics & Manufacturing, **Team Rakshak** (IIT Bombay UAV team, 40+ members) — led a team of 5+
 - 🧭 Exploring entrepreneurship: **CarbStox** (rooftop-solar carbon offset marketplace) and **Fin_Wiser** (financial literacy EdTech)
