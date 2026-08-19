@@ -18,13 +18,13 @@
 ## 👋 About Me
 
 - 🎓 B.Tech, Mechanical Engineering, **IIT Bombay** (2026) — Minor in **Artificial Intelligence & Data Science** · CPI 8.13
-- 💼 Incoming **Analytical Consultant** at **EXL Services**, trained under the eDART Analytics Program (with Great Learning) covering Excel, SQL, Python, Power BI & Big Data
+- 💼 Incoming **Analytical Consultant** at **EXL Services**
 - 🧪 Former **Business Analyst Intern** @ Tribeca Developers, and **Generative AI Intern** @ Noctilucent Technologies
-- 🚀 Built and shipped projects across churn prediction, RAG pipelines, computer vision, and font-vector generation
+- ✈️ Subsystem Vice Lead — Aerodynamics & Manufacturing, **Team Rakshak** (IIT Bombay) 
+- 🚀 Built and shipped data-driven and AI solutions across Generative AI, machine learning, computer vision, and intelligent systems
 - 🌱 Currently deepening my work with **LangChain / LangGraph**, agentic workflows, and MLOps practices
-- ✈️ Subsystem Vice Lead — Aerodynamics & Manufacturing, **Team Rakshak** (IIT Bombay UAV team, 40+ members) — led a team of 5+
-- 🧭 Exploring entrepreneurship: **CarbStox** (rooftop-solar carbon offset marketplace) and **Fin_Wiser** (financial literacy EdTech)
-- 💬 Ask me about: churn modeling with XGBoost + SHAP, building RAG chatbots, or carbon-credit marketplaces
+- 🧭 Exploring entrepreneurship
+- 💬 Ask me about: AI, Machine Learning, Data Science, Generative AI, or building intelligent systems
 
 <br/>
 
