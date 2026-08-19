@@ -30,45 +30,58 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Programming & Scripting**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,r,matlab,mysql" />
-
-**Machine Learning & Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab" />
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-1560bd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Agentic AI**
+
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain%20Agents-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0A0A23?style=for-the-badge"/>
+
+**ML/DL**
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+**Data Analysis**
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-7A5195?style=for-the-badge"/>
-
-**GenAI & LLM Tooling**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-2B2D42?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-2E8B57?style=for-the-badge"/>
-
-**Data, BI & Analytics**
-
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bayesian%20Inference-6A0DAD?style=for-the-badge"/>
 
-**Cloud, MLOps & Tools**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+
+**Cloud & MLOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
 <br/>
+<img src="https://img.shields.io/badge/Azure%20ML%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+**Web & Version Control**
+
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+**Others**
+
+<img src="https://img.shields.io/badge/Linux%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 
 <br/>
 
@@ -78,57 +91,81 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Customer Churn Prediction
-Predictive model for customer churn with **~98% accuracy** and **ROC-AUC 0.9924**.
-- Feature engineering + **SMOTE** for class imbalance
-- **XGBoost** classifier, **SHAP** for explainability
-<img src="https://img.shields.io/badge/-XGBoost-1560bd?style=flat-square"/> <img src="https://img.shields.io/badge/-SHAP-7A5195?style=flat-square"/> <img src="https://img.shields.io/badge/-SMOTE-2E8B57?style=flat-square"/>
+### 📧 Career Twin — Autonomous Email Agent
+*Jun'26 – Jul'26*
+
+Agentic AI email-reply system built on IMAP/SMTP and Gemini via an OpenAI-compatible API.
+- Function-calling agent grounded strictly in resume/profile data to prevent hallucination
+- Tool logic to autonomously send replies or escalate to a human via notification
+- Idempotent message tracking, dry-run testing, and self-loop prevention safeguards
+
+<img src="https://img.shields.io/badge/-OpenAI--Compatible%20API-412991?style=flat-square"/> <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square"/> <img src="https://img.shields.io/badge/-IMAP%2FSMTP-2E8B57?style=flat-square"/>
+
+<a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 RAG Chatbot
-Retrieval-Augmented Generation chatbot with document ingestion → embeddings → contextual response generation.
-- **LlamaIndex** + Hugging Face (`bge-small-en-v1.5`) embeddings
-- **Ollama** / LLaMA-family models, vector retrieval, web app integration
-<img src="https://img.shields.io/badge/-LlamaIndex-000000?style=flat-square"/> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square"/>
+### 🤖 Autonomous Agentic AI Trading Floor
+*Jun'26 – Jul'26*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Multi-agent trading system orchestrating 4 autonomous trader agents via the OpenAI Agents SDK and MCP.
+- 6 MCP servers exposing accounts, market data, Tavily search, memory, and fetch tools
+- Context-isolated researcher agent for web research without exposing full conversation state
+- Self-improving agents via feedback loops and custom trace-based observability
 
-### 🔤 DeepVecFont — Vector Font Generation
-Data pipeline for font-vector generation and representation learning.
-- TTF → SFD conversion via **FontForge**, SVG sequence processing
-- Image/vector dataset construction with NumPy
-<img src="https://img.shields.io/badge/-FontForge-333333?style=flat-square"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square"/>
+<img src="https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat-square"/> <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/-Tavily-2E8B57?style=flat-square"/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Global Temperature Analysis
-Time-series exploration of monthly average global temperatures (2001–2024).
-- Trend analysis and visualization
-- Statistical summarization of long-horizon climate data
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square"/> <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square"/>
+<a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🕶️ Face Recognition System
-Computer vision pipeline for face detection and recognition.
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square"/>
+### 🔍 User Churn & Retention Strategy — FamApp
+*May'25 – Jun'25*
+
+End-to-end churn prediction system on 50K+ users and 500K+ transactions using behavioral state transition modeling.
+- Engineered custom behavioral features and balanced the dataset for robust training
+- Benchmarked models and selected XGBoost — **98% accuracy, 0.99 ROC-AUC, 93% recall**
+- Built a SHAP-based explainability layer translating predictions into stakeholder-ready insights
+
+<img src="https://img.shields.io/badge/-XGBoost-1560bd?style=flat-square"/> <img src="https://img.shields.io/badge/-SHAP-7A5195?style=flat-square"/> <img src="https://img.shields.io/badge/-EDA-2E8B57?style=flat-square"/>
+
+<a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 CarbStox — Carbon Offset Marketplace
-Early-stage startup: marketplace connecting rooftop-solar carbon offsets to corporate buyers.
-- Customer discovery, TAM/SAM/TM sizing, financial projections
-<img src="https://img.shields.io/badge/-Product%20Strategy-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/-Climate%20Tech-228B22?style=flat-square"/>
+### 🔋 Statistical Modeling of Battery Discharge
+*Mar'25 – Apr'25 · Course Project, Prof. Soham Mujumdar*
+
+Randomized 2² factorial experiment testing screen brightness and app-type effects on battery discharge rate.
+- ANOVA testing confirming statistically significant effects on discharge rate at p<0.01
+- Applied Bayesian inference to estimate discharge differences, complementing frequentist testing
+
+<img src="https://img.shields.io/badge/-ANOVA-4C72B0?style=flat-square"/> <img src="https://img.shields.io/badge/-Bayesian%20Inference-6A0DAD?style=flat-square"/> <img src="https://img.shields.io/badge/-Experimental%20Design-2E8B57?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Architectural Design Optimization
+*Mar'24 – Apr'24 · Course Project, Prof. Vinay Kulkarni, C‑MInDS*
+
+Python/OpenCV pipeline extracting length, width, area, and complexity from ~1K layouts via contour detection.
+- Compared three feature representation strategies and applied K-Means and DBSCAN with PCA for clustering
+- Validated clustering quality using the Elbow Method and Silhouette Score, producing 3-cluster centroid profiles
+- Deployed the pipeline as a Flask web app returning real-time layout metrics on uploaded images
+
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/> <img src="https://img.shields.io/badge/-K--Means-1560bd?style=flat-square"/> <img src="https://img.shields.io/badge/-DBSCAN-1560bd?style=flat-square"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square"/>
+
+<a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
