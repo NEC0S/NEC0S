@@ -188,14 +188,19 @@ Python/OpenCV pipeline extracting length, width, area, and complexity from ~1K l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NEC0S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NEC0S&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEC0S&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=NEC0S&theme=tokyonight&hide_border=true" width="700"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=NEC0S&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" width="700"/>
 
 </div>
+
 
 <br/>
 
