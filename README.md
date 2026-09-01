@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Abhishek%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=55&descSize=17" width="100%"/>
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-22102612200420042210/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kumarabhishek.in01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/>
@@ -173,14 +173,14 @@ Python/OpenCV pipeline extracting length, width, area, and complexity from ~1K l
 
 <br/>
 
-## 🧭 Experience Timeline
+## 💼 Experience
 
 | Period | Role | Organization |
 |---|---|---|
-| 2026 → | Analytical Consultant *(incoming)* | EXL Services |
-| — | Generative AI Intern | Noctilucent Technologies |
-| — | Business Analyst Intern | Tribeca Developers |
-| Aug 2024 – Aug 2025 | Subsystem Vice Lead, Aerodynamics & Manufacturing | Team Rakshak, IIT Bombay |
+| **2026 – Present** | Analytical Consultant | **EXL Services** |
+| Jun 2025 – Aug 2025 | Business Analyst Intern | Tribeca Developers |
+| Aug 2024 – Aug 2025 | Subsystem Vice Lead — Aerodynamics & Manufacturing | Team Rakshak, IIT Bombay |
+| Jun 2024 – Aug 2024 | Generative AI Intern | Noctilucent Technologies |
 
 <br/>
 
@@ -199,8 +199,8 @@ Python/OpenCV pipeline extracting length, width, area, and complexity from ~1K l
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-22102612200420042210/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kumarabhishek.in01@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
