@@ -34,7 +34,7 @@ Analytical Consultant at <b>EXL Services</b> with a B.Tech in Mechanical Enginee
 I build data-driven and AI solutions across generative AI, machine learning, computer vision, and intelligent systems.
 </p>
 
-<table align="center">
+<table width="100%">
 <tr>
 <td align="center" width="25%"><h3>IIT Bombay</h3><sub>B.Tech · Mechanical Engineering · 2026</sub></td>
 <td align="center" width="25%"><h3>8.13</h3><sub>CPI</sub></td>
@@ -43,11 +43,12 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<th align="left" width="33%">🎯 What I Build</th>
-<th align="left" width="33%">🌱 Currently Exploring</th>
-<th align="left" width="34%">💬 Ask Me About</th>
+<th align="left" width="25%">🎯 What I Build</th>
+<th align="left" width="25%">🌱 Currently Exploring</th>
+<th align="left" width="25%">💬 Ask Me About</th>
+<th align="left" width="25%">🧭 Leadership</th>
 </tr>
 <tr>
 <td valign="top">
@@ -74,10 +75,15 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <li>Building intelligent systems</li>
 </ul>
 </td>
+<td valign="top">
+<ul>
+<li><b>Subsystem Vice Lead</b></li>
+<li>Aerodynamics &amp; Manufacturing</li>
+<li>Team Rakshak, IIT Bombay</li>
+</ul>
+</td>
 </tr>
 </table>
-
-<p align="center"><sub>✈️ Subsystem Vice Lead, Aerodynamics &amp; Manufacturing at Team Rakshak, IIT Bombay</sub></p>
 
 <br/>
 
@@ -85,31 +91,33 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="25%">
-<b>Programming &amp; Scripting</b><br/><br/>
+<th align="left" width="25%">💻 Programming &amp; Scripting</th>
+<th align="left" width="25%">🤖 Agentic AI</th>
+<th align="left" width="25%">🧠 ML / DL</th>
+<th align="left" width="25%">📈 Data Analysis</th>
+</tr>
+<tr>
+<td valign="top">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </td>
-<td valign="top" width="25%">
-<b>Agentic AI</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/LangChain%20Agents-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Agents"/>
 <img src="https://img.shields.io/badge/MCP-434B57?style=flat-square" alt="MCP"/>
 <img src="https://img.shields.io/badge/Pinecone-1C17FF?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
 </td>
-<td valign="top" width="25%">
-<b>ML / DL</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square" alt="Statsmodels"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </td>
-<td valign="top" width="25%">
-<b>Data Analysis</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
@@ -118,14 +126,18 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 </td>
 </tr>
 <tr>
-<td valign="top" width="25%">
-<b>Databases</b><br/><br/>
+<th align="left" width="25%">🗄️ Databases</th>
+<th align="left" width="25%">☁️ Cloud &amp; DevOps</th>
+<th align="left" width="25%">🌐 Web &amp; APIs</th>
+<th align="left" width="25%">🧰 Tools</th>
+</tr>
+<tr>
+<td valign="top">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </td>
-<td valign="top" width="25%">
-<b>Cloud &amp; DevOps</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Azure%20ML%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure ML Studio"/>
@@ -134,16 +146,14 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
 </td>
-<td valign="top" width="25%">
-<b>Web &amp; APIs</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" alt="Gradio"/>
 </td>
-<td valign="top" width="25%">
-<b>Tools</b><br/><br/>
+<td valign="top">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Linux%20CLI-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux CLI"/>
@@ -160,7 +170,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 ### 🤖 Generative AI & Agentic AI
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="22%">Project</th>
 <th align="left" width="58%">Overview</th>
@@ -185,7 +195,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 ### 📊 Data Science & Machine Learning
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="22%">Project</th>
 <th align="left" width="58%">Overview</th>
@@ -210,7 +220,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 ### ⚙️ DevOps & Cloud
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="22%">Project</th>
 <th align="left" width="58%">Overview</th>
@@ -239,13 +249,14 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 </p>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'ui-sans-serif, system-ui, sans-serif', 'cScale0': '#355c70', 'cScale1': '#2d6e88', 'cScale2': '#12809f', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff', 'cScaleInv0': '#4c9aab', 'cScaleInv1': '#4c9aab', 'cScaleInv2': '#4c9aab', 'lineColor': '#4c9aab'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'ui-sans-serif, system-ui, sans-serif', 'cScale0': '#355c70', 'cScale1': '#2d6e88', 'cScale2': '#12809f', 'cScale3': '#12809f', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff', 'cScaleLabel3': '#ffffff', 'cScaleInv0': '#4c9aab', 'cScaleInv1': '#4c9aab', 'cScaleInv2': '#4c9aab', 'cScaleInv3': '#4c9aab', 'lineColor': '#4c9aab'}}}%%
 timeline
-    2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug 2024
-         : Subsystem Vice Lead at Team Rakshak IIT Bombay - Aug 2024 to Aug 2025
-    2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug 2025
-    2026 : B.Tech at IIT Bombay - Class of 2026
-         : Analytical Consultant at EXL Services - Present
+    section During B.Tech
+        2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug 2024
+             : Subsystem Vice Lead at Team Rakshak IIT Bombay - Aug 2024 to Aug 2025
+        2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug 2025
+    section Full-time
+        2026 : Analytical Consultant at EXL Services - Present
 ```
 
 <br/>
