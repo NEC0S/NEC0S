@@ -27,14 +27,28 @@
 
 ## 👋 About Me
 
-- 🎓 B.Tech, Mechanical Engineering, **IIT Bombay** (2026) — Minor in **Artificial Intelligence & Data Science** · CPI 8.13
-- 💼 **Analytical Consultant** at **EXL Services**
-- 🧪 Former **Business Analyst Intern** @ Tribeca Developers and **Generative AI Intern** @ Noctilucent Technologies
-- ✈️ Subsystem Vice Lead, Aerodynamics & Manufacturing, **Team Rakshak** (IIT Bombay)
-- 🚀 Built and shipped data-driven and AI solutions across Generative AI, machine learning, computer vision, and intelligent systems
-- 🌱 Currently deepening my work with **LangChain / LangGraph**, agentic workflows, and MLOps practices
-- 🧭 Exploring entrepreneurship
-- 💬 Ask me about: AI, Machine Learning, Data Science, Generative AI, or building intelligent systems
+> I build data-driven and AI solutions that turn raw data into decisions.
+
+```python
+abhishek = {
+    "role":         "Analytical Consultant @ EXL Services",
+    "education":    "B.Tech, Mechanical Engineering @ IIT Bombay '26",
+    "minor":        "Artificial Intelligence & Data Science (CPI 8.13)",
+    "leadership":   "Subsystem Vice Lead @ Team Rakshak, IIT Bombay",
+    "previously": [
+        "Business Analyst Intern @ Tribeca Developers",
+        "Generative AI Intern @ Noctilucent Technologies",
+    ],
+    "built_with": [
+        "Generative AI", "Machine Learning", "Computer Vision", "Intelligent Systems",
+    ],
+    "learning": [
+        "LangChain / LangGraph", "Agentic Workflows", "MLOps",
+    ],
+    "exploring":    "Entrepreneurship",
+    "ask_me_about": ["AI", "Machine Learning", "Data Science", "Generative AI"],
+}
+```
 
 <br/>
 
@@ -191,17 +205,15 @@
 
 ## 💼 Experience
 
-<table>
-<tr>
-<th align="left" width="22%">Period</th>
-<th align="left" width="46%">Role</th>
-<th align="left" width="32%">Organization</th>
-</tr>
-<tr><td><b>2026 – Present</b></td><td><b>Analytical Consultant</b></td><td><b>EXL Services</b></td></tr>
-<tr><td>Jun 2025 – Aug 2025</td><td>Business Analyst Intern</td><td>Tribeca Developers</td></tr>
-<tr><td>Aug 2024 – Aug 2025</td><td>Subsystem Vice Lead, Aerodynamics &amp; Manufacturing</td><td>Team Rakshak, IIT Bombay</td></tr>
-<tr><td>Jun 2024 – Aug 2024</td><td>Generative AI Intern</td><td>Noctilucent Technologies</td></tr>
-</table>
+```mermaid
+timeline
+    title Career Journey
+    2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug
+         : Subsystem Vice Lead at Team Rakshak IIT Bombay - Aug 2024 to Aug 2025
+    2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug
+    2026 : B.Tech at IIT Bombay - Class of 2026
+         : Analytical Consultant at EXL Services - Present
+```
 
 <br/>
 
