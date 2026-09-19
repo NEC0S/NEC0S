@@ -29,25 +29,35 @@
 
 > I build data-driven and AI solutions that turn raw data into decisions.
 
-```python
-abhishek = {
-    "role":         "Analytical Consultant @ EXL Services",
-    "education":    "B.Tech, Mechanical Engineering @ IIT Bombay '26",
-    "minor":        "Artificial Intelligence & Data Science (CPI 8.13)",
-    "leadership":   "Subsystem Vice Lead @ Team Rakshak, IIT Bombay",
-    "previously": [
-        "Business Analyst Intern @ Tribeca Developers",
-        "Generative AI Intern @ Noctilucent Technologies",
-    ],
-    "built_with": [
-        "Generative AI", "Machine Learning", "Computer Vision", "Intelligent Systems",
-    ],
-    "learning": [
-        "LangChain / LangGraph", "Agentic Workflows", "MLOps",
-    ],
-    "exploring":    "Entrepreneurship",
-    "ask_me_about": ["AI", "Machine Learning", "Data Science", "Generative AI"],
-}
+```console
+$ whoami
+Abhishek Kumar
+
+$ cat role.txt
+Analytical Consultant @ EXL Services
+
+$ cat education.txt
+B.Tech, Mechanical Engineering @ IIT Bombay (2026)
+Minor: Artificial Intelligence & Data Science  |  CPI 8.13
+
+$ cat leadership.txt
+Subsystem Vice Lead, Aerodynamics & Manufacturing @ Team Rakshak, IIT Bombay
+
+$ cat previously.txt
+Business Analyst Intern    @ Tribeca Developers
+Generative AI Intern       @ Noctilucent Technologies
+
+$ ls focus/
+generative-ai/  machine-learning/  computer-vision/  intelligent-systems/
+
+$ ls learning/
+langchain-langgraph/  agentic-workflows/  mlops/
+
+$ echo $EXPLORING
+entrepreneurship
+
+$ ask --about "AI, Machine Learning, Data Science, Generative AI"
+Always happy to talk. Say hello below.
 ```
 
 <br/>
@@ -205,12 +215,16 @@ abhishek = {
 
 ## 💼 Experience
 
+<p align="center">
+<img src="https://img.shields.io/badge/Currently-Analytical%20Consultant%20%40%20EXL%20Services-2c5364?style=for-the-badge&labelColor=2EA44F" alt="Currently Analytical Consultant at EXL Services"/>
+</p>
+
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'ui-sans-serif, system-ui, sans-serif', 'cScale0': '#355c70', 'cScale1': '#2d6e88', 'cScale2': '#12809f', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff', 'cScaleInv0': '#4c9aab', 'cScaleInv1': '#4c9aab', 'cScaleInv2': '#4c9aab', 'lineColor': '#4c9aab'}}}%%
 timeline
-    title Career Journey
-    2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug
+    2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug 2024
          : Subsystem Vice Lead at Team Rakshak IIT Bombay - Aug 2024 to Aug 2025
-    2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug
+    2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug 2025
     2026 : B.Tech at IIT Bombay - Class of 2026
          : Analytical Consultant at EXL Services - Present
 ```
