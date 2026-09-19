@@ -27,38 +27,57 @@
 
 ## 👋 About Me
 
-> I build data-driven and AI solutions that turn raw data into decisions.
+<h3 align="center">Turning raw data into decisions.</h3>
 
-```console
-$ whoami
-Abhishek Kumar
+<p align="center">
+Analytical Consultant at <b>EXL Services</b> with a B.Tech in Mechanical Engineering from <b>IIT Bombay</b>.<br/>
+I build data-driven and AI solutions across generative AI, machine learning, computer vision, and intelligent systems.
+</p>
 
-$ cat role.txt
-Analytical Consultant @ EXL Services
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>IIT Bombay</h3><sub>B.Tech · Mechanical Engineering · 2026</sub></td>
+<td align="center" width="25%"><h3>8.13</h3><sub>CPI</sub></td>
+<td align="center" width="25%"><h3>AI &amp; Data Science</h3><sub>Minor</sub></td>
+<td align="center" width="25%"><h3>EXL Services</h3><sub>Analytical Consultant</sub></td>
+</tr>
+</table>
 
-$ cat education.txt
-B.Tech, Mechanical Engineering @ IIT Bombay (2026)
-Minor: Artificial Intelligence & Data Science  |  CPI 8.13
+<table>
+<tr>
+<th align="left" width="33%">🎯 What I Build</th>
+<th align="left" width="33%">🌱 Currently Exploring</th>
+<th align="left" width="34%">💬 Ask Me About</th>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li>Generative AI</li>
+<li>Machine Learning</li>
+<li>Computer Vision</li>
+<li>Intelligent Systems</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>LangChain / LangGraph</li>
+<li>Agentic workflows</li>
+<li>MLOps practices</li>
+<li>Entrepreneurship</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>AI and Machine Learning</li>
+<li>Data Science</li>
+<li>Generative AI</li>
+<li>Building intelligent systems</li>
+</ul>
+</td>
+</tr>
+</table>
 
-$ cat leadership.txt
-Subsystem Vice Lead, Aerodynamics & Manufacturing @ Team Rakshak, IIT Bombay
-
-$ cat previously.txt
-Business Analyst Intern    @ Tribeca Developers
-Generative AI Intern       @ Noctilucent Technologies
-
-$ ls focus/
-generative-ai/  machine-learning/  computer-vision/  intelligent-systems/
-
-$ ls learning/
-langchain-langgraph/  agentic-workflows/  mlops/
-
-$ echo $EXPLORING
-entrepreneurship
-
-$ ask --about "AI, Machine Learning, Data Science, Generative AI"
-Always happy to talk. Say hello below.
-```
+<p align="center"><sub>✈️ Subsystem Vice Lead, Aerodynamics &amp; Manufacturing at Team Rakshak, IIT Bombay</sub></p>
 
 <br/>
 
