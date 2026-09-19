@@ -36,19 +36,16 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><h3>IIT Bombay</h3><sub>B.Tech · Mechanical Engineering · 2026</sub></td>
-<td align="center" width="25%"><h3>8.13</h3><sub>CPI</sub></td>
-<td align="center" width="25%"><h3>AI &amp; Data Science</h3><sub>Minor</sub></td>
-<td align="center" width="25%"><h3>EXL Services</h3><sub>Analytical Consultant</sub></td>
+<td align="center" valign="middle" width="25%"><h3>IIT Bombay</h3><sub>B.Tech · Mechanical Engineering · 2026</sub></td>
+<td align="center" valign="middle" width="25%"><h3>8.13</h3><sub>CPI</sub></td>
+<td align="center" valign="middle" width="25%"><h3>AI &amp; Data Science</h3><sub>Minor</sub></td>
+<td align="center" valign="middle" width="25%"><h3>EXL Services</h3><sub>Analytical Consultant</sub></td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<th align="left" width="25%">🎯 What I Build</th>
-<th align="left" width="25%">🌱 Currently Exploring</th>
-<th align="left" width="25%">💬 Ask Me About</th>
-<th align="left" width="25%">🧭 Leadership</th>
+<th align="left">🎯 What I Build</th>
+<th align="left">🌱 Currently Exploring</th>
+<th align="left">💬 Ask Me About</th>
+<th align="left">🧭 Leadership</th>
 </tr>
 <tr>
 <td valign="top">
@@ -168,14 +165,13 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 
 ## 🚀 Projects
 
-### 🤖 Generative AI & Agentic AI
-
 <table width="100%">
 <tr>
 <th align="left" width="22%">Project</th>
 <th align="left" width="58%">Overview</th>
 <th align="left" width="20%">Links</th>
 </tr>
+<tr><th align="left" colspan="3">🤖 Generative AI &amp; Agentic AI</th></tr>
 <tr>
 <td valign="top"><b>Prashna.ai</b></td>
 <td valign="top">AI question paper generator that produces print-ready CBSE exam papers, with self-healing LaTeX compilation and per-question refinement.<br/><sub><i>LangGraph · Gemini · FastAPI · LaTeX</i></sub></td>
@@ -191,16 +187,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <td valign="top">Multi-agent trading system where four autonomous traders use six MCP servers for market data, research, and memory.<br/><sub><i>OpenAI Agents SDK · MCP · Tavily</i></sub></td>
 <td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="ADD_LINK_HERE"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
-</table>
-
-### 📊 Data Science & Machine Learning
-
-<table width="100%">
-<tr>
-<th align="left" width="22%">Project</th>
-<th align="left" width="58%">Overview</th>
-<th align="left" width="20%">Links</th>
-</tr>
+<tr><th align="left" colspan="3">📊 Data Science &amp; Machine Learning</th></tr>
 <tr>
 <td valign="top"><b>FamApp Churn &amp; Retention</b></td>
 <td valign="top">End-to-end churn prediction on 50K+ users and 500K+ transactions, with SHAP explainability (98% accuracy, 0.99 ROC-AUC).<br/><sub><i>XGBoost · SHAP · EDA</i></sub></td>
@@ -216,16 +203,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <td valign="top">Factorial experiment on how screen brightness and app type affect battery discharge, analyzed with ANOVA and Bayesian inference.<br/><sub><i>ANOVA · Bayesian Inference · Experimental Design</i></sub></td>
 <td valign="top">—</td>
 </tr>
-</table>
-
-### ⚙️ DevOps & Cloud
-
-<table width="100%">
-<tr>
-<th align="left" width="22%">Project</th>
-<th align="left" width="58%">Overview</th>
-<th align="left" width="20%">Links</th>
-</tr>
+<tr><th align="left" colspan="3">⚙️ DevOps &amp; Cloud</th></tr>
 <tr>
 <td valign="top"><b>CloudCart Agent</b></td>
 <td valign="top">Tool-using AI support agent with RAG and order lookup, provisioned with Terraform, deployed via GitHub Actions, and monitored in CloudWatch.<br/><sub><i>Terraform · GitHub Actions · AWS Bedrock · Lambda</i></sub></td>
@@ -245,19 +223,8 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 ## 💼 Experience
 
 <p align="center">
-<img src="https://img.shields.io/badge/Currently-Analytical%20Consultant%20%40%20EXL%20Services-2c5364?style=for-the-badge&labelColor=2EA44F" alt="Currently Analytical Consultant at EXL Services"/>
+<img src="assets/experience-timeline.svg" alt="Career timeline: Generative AI Intern at Noctilucent Technologies (Jun to Aug 2024), Subsystem Vice Lead at Team Rakshak, IIT Bombay (Aug 2024 to Aug 2025), Business Analyst Intern at Tribeca Developers (Jun to Aug 2025), Analytical Consultant at EXL Services (2026 to present)" width="100%"/>
 </p>
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'ui-sans-serif, system-ui, sans-serif', 'cScale0': '#355c70', 'cScale1': '#2d6e88', 'cScale2': '#12809f', 'cScale3': '#12809f', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff', 'cScaleLabel3': '#ffffff', 'cScaleInv0': '#4c9aab', 'cScaleInv1': '#4c9aab', 'cScaleInv2': '#4c9aab', 'cScaleInv3': '#4c9aab', 'lineColor': '#4c9aab'}}}%%
-timeline
-    section During B.Tech
-        2024 : Generative AI Intern at Noctilucent Technologies - Jun to Aug 2024
-             : Subsystem Vice Lead at Team Rakshak IIT Bombay - Aug 2024 to Aug 2025
-        2025 : Business Analyst Intern at Tribeca Developers - Jun to Aug 2025
-    section Full-time
-        2026 : Analytical Consultant at EXL Services - Present
-```
 
 <br/>
 
