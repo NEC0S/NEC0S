@@ -67,12 +67,13 @@
 </td>
 <td valign="top">
 <b>Cloud & MLOps</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" height="36"/><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,githubactions,git,github" height="36"/><br/>
 <img src="https://img.shields.io/badge/Azure%20ML%20Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 </td>
 <td valign="top">
 <b>Web & Apps</b><br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -94,6 +95,7 @@
 
 | Project | About | Links |
 |---|---|---|
+| **Prashna.ai** | AI question paper generator. A LangGraph pipeline drives Gemini to write CBSE exam papers, compiles them to PDF with LaTeX, and self-corrects compile errors. *(LangGraph, Gemini, FastAPI)* | [GitHub](https://github.com/NEC0S) · [Live Demo](https://prashna-ai-043g.onrender.com/) |
 | **Career Twin** | Autonomous email agent that replies using only my resume/profile data, or escalates to me when unsure. *(Gemini, IMAP/SMTP)* | [GitHub](https://github.com/NEC0S) · [Live Demo](ADD_LINK_HERE) |
 | **Agentic AI Trading Floor** | Multi-agent system where 4 autonomous traders use MCP servers for market data, research, and memory. *(OpenAI Agents SDK, MCP)* | [GitHub](https://github.com/NEC0S) · [Live Demo](ADD_LINK_HERE) |
 
@@ -105,13 +107,12 @@
 | **Architectural Design Optimization** | OpenCV + K-Means/DBSCAN pipeline that extracts metrics from ~1K layouts and clusters them; served as a Flask app. | [GitHub](https://github.com/NEC0S) · [Live Demo](ADD_LINK_HERE) |
 | **Statistical Modeling of Battery Discharge** | Factorial experiment on screen brightness and app type, analyzed with ANOVA and Bayesian inference. | — |
 
-<!--
-### ⚙️ DevOps
+### ⚙️ DevOps & Cloud
 
 | Project | About | Links |
 |---|---|---|
-| **Project name** | One-line description. *(Docker, CI/CD, ...)* | [GitHub](ADD_LINK_HERE) · [Live Demo](ADD_LINK_HERE) |
--->
+| **CloudCart Agent** | Tool-using AI support agent (order lookup, RAG, weather) on AWS Bedrock + Lambda, provisioned with Terraform and deployed through GitHub Actions, with CloudWatch cost/latency metrics. *(Terraform, GitHub Actions, AWS)* | [GitHub](https://github.com/NEC0S) · [Live Demo](http://abhishek-chatbot-frontend-2026.s3-website.eu-north-1.amazonaws.com/) |
+| **Terraform + GitHub Actions Static Site** | S3 static website managed with Terraform. Pull requests run `plan`, merges to `main` run `apply` automatically. *(Terraform, GitHub Actions, S3)* | [GitHub](https://github.com/NEC0S) · [Live Demo](http://abhishek-kumar-tf-demo-2026.s3-website.eu-north-1.amazonaws.com/) |
 
 <br/>
 
