@@ -13,11 +13,7 @@
 
 <br/>
 
-<a href="#about">About</a> &nbsp;•&nbsp;
-<a href="#stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#projects">Projects</a> &nbsp;•&nbsp;
-<a href="#experience">Experience</a> &nbsp;•&nbsp;
-<a href="#connect">Connect</a>
+<a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-2c5364?style=for-the-badge&labelColor=0f2027" alt="About"/></a> <a href="#stack"><img src="https://img.shields.io/badge/02-TECH%20STACK-2c5364?style=for-the-badge&labelColor=0f2027" alt="Tech Stack"/></a> <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-2c5364?style=for-the-badge&labelColor=0f2027" alt="Projects"/></a> <a href="#experience"><img src="https://img.shields.io/badge/04-EXPERIENCE-2c5364?style=for-the-badge&labelColor=0f2027" alt="Experience"/></a> <a href="#connect"><img src="https://img.shields.io/badge/05-CONNECT-2c5364?style=for-the-badge&labelColor=0f2027" alt="Connect"/></a>
 
 </div>
 
