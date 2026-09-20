@@ -178,9 +178,14 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <td valign="top"><a href="https://github.com/NEC0S/Prashna.ai"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://prashna-ai-043g.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
+<td valign="top"><b>FNOL Claims Intake</b></td>
+<td valign="top">A production multi-agent LangGraph pipeline for automated auto-insurance claim intake, triage, and adjudication wrapped in a full-stack FastAPI + React operations console<br/><sub><i>LangGraph</i></sub></td>
+<td valign="top"><a href="https://github.com/NEC0S/CareerPing"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://careerping.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+</tr>
+<tr>
 <td valign="top"><b>Career Ping</b></td>
 <td valign="top">Autonomous email agent that replies using only my resume and profile data, and escalates to me when unsure.<br/><sub><i>Gemini · OpenAI-Compatible API · IMAP/SMTP</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S/CareerPing"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="ADD_LINK_HERE"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/CareerPing"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://careerping.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
 <td valign="top"><b>Agentic AI Trading Floor</b></td>
@@ -196,7 +201,7 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <tr>
 <td valign="top"><b>Architectural Design Optimization</b></td>
 <td valign="top">Computer vision and clustering pipeline that extracts metrics from ~1K architectural layouts, served as a Flask web app.<br/><sub><i>OpenCV · K-Means · DBSCAN · Flask</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="ADD_LINK_HERE"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/Architectural-Design-Optimization"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://github.com/NEC0S/Architectural-Design-Optimization"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
 <td valign="top"><b>Battery Discharge Modeling</b></td>
@@ -207,12 +212,12 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <tr>
 <td valign="top"><b>CloudCart Agent</b></td>
 <td valign="top">Tool-using AI support agent with RAG and order lookup, provisioned with Terraform, deployed via GitHub Actions, and monitored in CloudWatch.<br/><sub><i>Terraform · GitHub Actions · AWS Bedrock · Lambda</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="http://abhishek-chatbot-frontend-2026.s3-website.eu-north-1.amazonaws.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/devops-learning-bedrock-chatbot"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="http://abhishek-chatbot-frontend-2026.s3-website.eu-north-1.amazonaws.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
 <td valign="top"><b>Terraform Static Site</b></td>
 <td valign="top">S3 static website managed as code. Pull requests run a Terraform plan, and merges to main apply automatically.<br/><sub><i>Terraform · GitHub Actions · S3</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="http://abhishek-kumar-tf-demo-2026.s3-website.eu-north-1.amazonaws.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/devops-terraform-s3"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="http://abhishek-kumar-tf-demo-2026.s3-website.eu-north-1.amazonaws.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 </table>
 
