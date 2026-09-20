@@ -175,12 +175,12 @@ I build data-driven and AI solutions across generative AI, machine learning, com
 <tr>
 <td valign="top"><b>Prashna.ai</b></td>
 <td valign="top">AI question paper generator that produces print-ready CBSE exam papers, with self-healing LaTeX compilation and per-question refinement.<br/><sub><i>LangGraph · Gemini · FastAPI · LaTeX</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://prashna-ai-043g.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/Prashna.ai"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="https://prashna-ai-043g.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
-<td valign="top"><b>Career Twin</b></td>
+<td valign="top"><b>Career Ping</b></td>
 <td valign="top">Autonomous email agent that replies using only my resume and profile data, and escalates to me when unsure.<br/><sub><i>Gemini · OpenAI-Compatible API · IMAP/SMTP</i></sub></td>
-<td valign="top"><a href="https://github.com/NEC0S"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="ADD_LINK_HERE"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
+<td valign="top"><a href="https://github.com/NEC0S/CareerPing"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/></a><br/><a href="ADD_LINK_HERE"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=flat-square" alt="Live Demo"/></a></td>
 </tr>
 <tr>
 <td valign="top"><b>Agentic AI Trading Floor</b></td>
